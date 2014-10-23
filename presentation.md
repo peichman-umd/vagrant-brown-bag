@@ -3,6 +3,7 @@ date: 2014-10-23
 author:
     name: Peter Eichman
     email: peichman@umd.edu
+    url: https://github.com/peichman-umd/vagrant-brown-bag
 output: presentation.html
 
 --
